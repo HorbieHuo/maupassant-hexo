@@ -117,7 +117,7 @@ version: 0.0.0
 
 ## Features
 #### Logo
-You can set a **favicon.ico** for your website, please put it into  `source` folder of hexo directory, recommended size: 32px*32px.
+You can set a **favicon.png** for your website, please put it into  `source` folder of hexo directory, recommended size: 32px*32px.
 
 You can add a website logo for apple devices, please put an image named **apple-touch-icon.png** into `source` folder of hexo directory, recommended size: 114px*114px.
 
